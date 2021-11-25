@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+.btn{
+background-color: lightskyblue;
+width: 62%;
+}
+
+.container{
+    background-color: lightsteelblue;
+    width: 1000px;
+    position: relative;
+    left: 100px;
+    bottom: 130px;
+    outline: 1px solid black;
+}
+
+h5{
+   text-align: center;
+}
+
+.card-text1{
+font-weight: bold;
+font-size: 30px;
+}
+
+.form-input{
+    width: 212px;
+}

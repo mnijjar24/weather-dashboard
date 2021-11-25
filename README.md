@@ -1,0 +1,5 @@
+## Server Side API's Challenge - Weather Dashboard
+
+As a traveller it is extremely convenient to be able to see the weather in multiple cities to plan the trip accordingly. Keeping this in mind, this weather dashboard is created with many features! There is an input bar where the city name can be searched and the current/future weather conditions for that city are presented. Not only this, but that city is also added to the search history as well. The user is also presented with the city name, date, temperature, humidity, wind speed, UV index and an icon representation of weather conditions too! Furthermore, when the UV index is used, there is a colour that indicates whether the conditions are favorable, moderate, or severe. Lastly, when the city is searched, there is a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature and the humidity!
+
+## Screenshots of Weather Dashboard
